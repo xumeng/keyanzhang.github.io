@@ -1,6 +1,6 @@
 keyanzhang.github.io
 ====================
-Trying to draw an OS X Terminal window in pure CSS.
+Trying to draw an OS X Terminal window with pure CSS.
 
 “Theme”: https://github.com/robbyrussell/oh-my-zsh
 

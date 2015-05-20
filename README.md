@@ -1,9 +1,7 @@
 keyanzhang.github.io
 ====================
-Trying to draw an OS X Terminal window with pure CSS.
+An OS X Terminal window with pure CSS.
 
-“Theme”: https://github.com/robbyrussell/oh-my-zsh
-
-Colorscheme: https://github.com/christianbundy/spacegrey-iterm
-
-Font: http://www.google.com/fonts/specimen/Source+Code+Pro
+- “Theme”: https://github.com/robbyrussell/oh-my-zsh
+- Color Scheme: https://github.com/christianbundy/spacegrey-iterm
+- Font: http://www.google.com/fonts/specimen/Source+Code+Pro
